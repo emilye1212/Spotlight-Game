@@ -1,0 +1,4 @@
+repository "Spotlight/Spotlight@5773773009046@cloud"
+  path "/"
+    br "/main"
+    co "/main"
